@@ -1,0 +1,3 @@
+netty=com.stephen.learning.blade.core.sender.NettySender
+http=com.stephen.learning.blade.core.sender.HttpSender
+socket=com.stephen.learning.blade.core.sender.SocketSender

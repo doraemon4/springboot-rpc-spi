@@ -1,0 +1,2 @@
+xml=com.stephen.learning.blade.core.decoder.XmlDecoder
+json=com.stephen.learning.blade.core.decoder.JsonDecoder
